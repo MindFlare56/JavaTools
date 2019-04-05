@@ -12,12 +12,7 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
-    <dependencies>Experimental
-        DateTime
-        Key
-        Link
-        LinkedMap
-        Tools
+    <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
